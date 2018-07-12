@@ -1,0 +1,1 @@
+This repository contains some popular questions about scala.
