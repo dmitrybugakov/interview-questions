@@ -1,8 +1,8 @@
 * Scala
-  * [4 interview questions scala developers](https://insights.dice.com/2014/09/12/4-interview-questions-scala-developers/)
-  * [Scala interview questions](https://pedrorijo.com/blog/scala-interview-questions/)
   * [Scala best practices](https://github.com/alexandru/scala-best-practices)
   * [The Neophyte's Guide to Scala](https://danielwestheide.com/scala/neophytes.html)
+  * [4 interview questions scala developers](https://insights.dice.com/2014/09/12/4-interview-questions-scala-developers/)
+  * [Scala interview questions](https://pedrorijo.com/blog/scala-interview-questions/)
 * Jvm GC
   * [Virtual Machine Garbage Collection Tuning](http://www.oracle.com/technetwork/java/javase/gc-tuning-6-140523.html)
   * [Java HotSpot VM Options](https://www.oracle.com/technetwork/articles/java/vmoptions-jsp-140102.html)
