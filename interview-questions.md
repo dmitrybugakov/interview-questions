@@ -8,7 +8,7 @@
   * [Java HotSpot VM Options](https://www.oracle.com/technetwork/articles/java/vmoptions-jsp-140102.html)
   * [10 garbage collection interview question answer](https://javarevisited.blogspot.com/2012/10/10-garbage-collection-interview-question-answer.html)
   * [Jvm and garbage collection](https://dzone.com/articles/jvm-and-garbage-collection)
-* slick
+* Slick
   * [Core concepts](http://slick.lightbend.com/doc/3.2.0/concepts.html)
 * Apache Spark
   * [Apache Spark Join guidelines and Performance tuning](https://github.com/vaquarkhan/vk-wiki-notes/wiki/Apache-Spark-Join-guidelines-and-Performance-tuning)
