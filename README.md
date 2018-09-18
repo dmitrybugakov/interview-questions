@@ -1,1 +1,1 @@
-This repository contains some popular questions about scala.
+This repository contains some materials for preparing to the interview.
