@@ -4,6 +4,7 @@
   * [Scala best practices](https://github.com/alexandru/scala-best-practices)
   * [The Neophyte's Guide to Scala](https://danielwestheide.com/scala/neophytes.html)
 * Jvm GC
+  * [Virtual Machine Garbage Collection Tuning](http://www.oracle.com/technetwork/java/javase/gc-tuning-6-140523.html)
   * [10 garbage collection interview question answer](https://javarevisited.blogspot.com/2012/10/10-garbage-collection-interview-question-answer.html)
   * [Jvm and garbage collection](https://dzone.com/articles/jvm-and-garbage-collection)
 * slick
