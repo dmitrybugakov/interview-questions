@@ -8,3 +8,5 @@
   * [jvm-and-garbage-collection](https://dzone.com/articles/jvm-and-garbage-collection)
 * Apache Spark
   * [Apache Spark Join guidelines and Performance tuning](https://github.com/vaquarkhan/vk-wiki-notes/wiki/Apache-Spark-Join-guidelines-and-Performance-tuning)
+* Useful videos
+  * [Advanced Scala - Oleg Mürk](https://www.youtube.com/watch?v=hC4gGCD3vlY)
