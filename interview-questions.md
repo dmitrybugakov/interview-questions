@@ -10,5 +10,6 @@
   * [Core concepts](http://slick.lightbend.com/doc/3.2.0/concepts.html)
 * Apache Spark
   * [Apache Spark Join guidelines and Performance tuning](https://github.com/vaquarkhan/vk-wiki-notes/wiki/Apache-Spark-Join-guidelines-and-Performance-tuning)
+  * [Apache spark best practice](https://umbertogriffo.gitbooks.io/apache-spark-best-practices-and-tuning/)
 * Useful videos
   * [Advanced Scala - Oleg Mürk](https://www.youtube.com/watch?v=hC4gGCD3vlY)
