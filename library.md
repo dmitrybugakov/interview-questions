@@ -16,6 +16,7 @@
 * Useful videos
   * [Advanced Scala - Oleg Mürk](https://www.youtube.com/watch?v=hC4gGCD3vlY)
   * [Understanding Java Garbage Collection](https://www.youtube.com/watch?v=Uj1_4shgXpk)
+  * [Typeclasses in Scala with Dan Rosen](https://www.youtube.com/watch?v=sVMES4RZF-8)
 * Set Theory
   * [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/set-theory/)
   * [Set Theory and Foundations of Mathematics](http://www.settheory.net/)
