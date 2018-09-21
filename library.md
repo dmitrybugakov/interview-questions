@@ -14,6 +14,7 @@
   * [Apache Spark Join guidelines and Performance tuning](https://github.com/vaquarkhan/vk-wiki-notes/wiki/Apache-Spark-Join-guidelines-and-Performance-tuning)
   * [Apache spark best practice](https://umbertogriffo.gitbooks.io/apache-spark-best-practices-and-tuning/)
   * [Speculative execution spark](https://blog.knoldus.com/tuning-apache-spark-application-with-speculation/)
+  * [Tuning Spark](https://spark.apache.org/docs/latest/tuning.html)
 * Useful videos
   * [Advanced Scala - Oleg Mürk](https://www.youtube.com/watch?v=hC4gGCD3vlY)
   * [Understanding Java Garbage Collection](https://www.youtube.com/watch?v=Uj1_4shgXpk)
