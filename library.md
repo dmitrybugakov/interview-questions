@@ -18,6 +18,8 @@
   * [Tuning Spark](https://spark.apache.org/docs/latest/tuning.html)
   * [Speculative execution spark](https://blog.knoldus.com/tuning-apache-spark-application-with-speculation/)
   * [Cost based optimizer](https://databricks.com/blog/2017/08/31/cost-based-optimizer-in-apache-spark-2-2.html)
+* Books
+  * [High Performance Spark](https://www.amazon.com/dp/1491943203/ref=emc_b_5_t)
 * Useful videos
   * [Advanced Scala - Oleg Mürk](https://www.youtube.com/watch?v=hC4gGCD3vlY)
   * [Understanding Java Garbage Collection](https://www.youtube.com/watch?v=Uj1_4shgXpk)
