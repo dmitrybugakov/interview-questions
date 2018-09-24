@@ -3,6 +3,7 @@
   * [The Neophyte's Guide to Scala](https://danielwestheide.com/scala/neophytes.html)
   * [4 interview questions scala developers](https://insights.dice.com/2014/09/12/4-interview-questions-scala-developers/)
   * [Scala interview questions](https://pedrorijo.com/blog/scala-interview-questions/)
+  * [Inference Driven Design (library design)](https://mpilquist.github.io/blog/2018/07/04/fs2/)
 * Jvm GC
   * [Virtual Machine Garbage Collection Tuning](http://www.oracle.com/technetwork/java/javase/gc-tuning-6-140523.html)
   * [Java HotSpot VM Options](https://www.oracle.com/technetwork/articles/java/vmoptions-jsp-140102.html)
@@ -21,7 +22,7 @@
   * [Advanced Scala - Oleg Mürk](https://www.youtube.com/watch?v=hC4gGCD3vlY)
   * [Understanding Java Garbage Collection](https://www.youtube.com/watch?v=Uj1_4shgXpk)
   * [Typeclasses in Scala with Dan Rosen](https://www.youtube.com/watch?v=sVMES4RZF-8)
-  * [Spark Performance Tuning(Microsoft)](https://www.youtube.com/watch?v=LtcPhcHAvLw)
+  * [Spark Performance Tuning (Microsoft)](https://www.youtube.com/watch?v=LtcPhcHAvLw)
 * Set Theory
   * [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/set-theory/)
   * [Set Theory and Foundations of Mathematics](http://www.settheory.net/)
