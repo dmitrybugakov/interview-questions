@@ -29,4 +29,5 @@
   * [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/set-theory/)
   * [Set Theory and Foundations of Mathematics](http://www.settheory.net/)
 * Category Theory
-  * [Category theory for programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+  * [Category theory for programmers (papers)](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+  * [Category theory for programmers (videos)](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
