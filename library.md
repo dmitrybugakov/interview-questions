@@ -23,6 +23,7 @@
   * [Scala in Depth](https://www.amazon.com/Scala-Depth-Joshua-D-Suereth/dp/1935182706)
   * [High Performance Spark](https://www.amazon.com/dp/1491943203/ref=emc_b_5_t)
   * [Algorithhms 4th Edition by Robert Sedgewic](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X?keywords=algorithms+4th+edition+by+robert+sedgewick&qid=1537865879&s=Books&sr=1-1-spell&ref=sr_1_1)
+  * [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850?keywords=Gayle+Laakmann+McDowell+-+Cracking+the+Coding+Interview&qid=1537866048&s=Books&sr=1-1-catcorr&ref=sr_1_1)
 * Useful videos
   * [Advanced Scala - Oleg Mürk](https://www.youtube.com/watch?v=hC4gGCD3vlY)
   * [Understanding Java Garbage Collection](https://www.youtube.com/watch?v=Uj1_4shgXpk)
