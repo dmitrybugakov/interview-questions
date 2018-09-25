@@ -19,7 +19,10 @@
   * [Speculative execution spark](https://blog.knoldus.com/tuning-apache-spark-application-with-speculation/)
   * [Cost based optimizer](https://databricks.com/blog/2017/08/31/cost-based-optimizer-in-apache-spark-2-2.html)
 * Books
+  * [Scala in Depth](https://www.amazon.com/Scala-Depth-Joshua-D-Suereth/dp/1935182706)
+  * [Functional Programming in Scala](https://www.amazon.com/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653/ref=pd_lpo_sbs_14_t_1?_encoding=UTF8&psc=1&refRID=C345JFSGJVB0RTQQW09H)
   * [High Performance Spark](https://www.amazon.com/dp/1491943203/ref=emc_b_5_t)
+  * [Algorithhms 4th Edition by Robert Sedgewic](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X?keywords=algorithms+4th+edition+by+robert+sedgewick&qid=1537865879&s=Books&sr=1-1-spell&ref=sr_1_1)
 * Useful videos
   * [Advanced Scala - Oleg Mürk](https://www.youtube.com/watch?v=hC4gGCD3vlY)
   * [Understanding Java Garbage Collection](https://www.youtube.com/watch?v=Uj1_4shgXpk)
