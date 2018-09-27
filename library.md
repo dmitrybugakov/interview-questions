@@ -15,6 +15,7 @@
 * Apache Spark
   * [Apache Spark Join guidelines and Performance tuning](https://github.com/vaquarkhan/vk-wiki-notes/wiki/Apache-Spark-Join-guidelines-and-Performance-tuning)
   * [Apache spark best practice](https://umbertogriffo.gitbooks.io/apache-spark-best-practices-and-tuning/)
+  * [Spark performance](https://michalsenkyr.github.io/2018/01/spark-performance)
   * [Tuning Spark](https://spark.apache.org/docs/latest/tuning.html)
   * [Speculative execution spark](https://blog.knoldus.com/tuning-apache-spark-application-with-speculation/)
   * [Cost based optimizer](https://databricks.com/blog/2017/08/31/cost-based-optimizer-in-apache-spark-2-2.html)
