@@ -9,6 +9,7 @@
   * [Java HotSpot VM Options](https://www.oracle.com/technetwork/articles/java/vmoptions-jsp-140102.html)
   * [10 garbage collection interview question answer](https://javarevisited.blogspot.com/2012/10/10-garbage-collection-interview-question-answer.html)
   * [Jvm and garbage collection](https://dzone.com/articles/jvm-and-garbage-collection)
+  * [Jvm garbage collection distilled](https://mechanical-sympathy.blogspot.com/2013/07/java-garbage-collection-distilled.html)
   * [Tuning gc for spark applications](https://databricks.com/blog/2015/05/28/tuning-java-garbage-collection-for-spark-applications.html)
 * Slick
   * [Core concepts](http://slick.lightbend.com/doc/3.2.0/concepts.html)
