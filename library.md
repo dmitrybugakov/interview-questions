@@ -19,6 +19,7 @@
   * [Tuning Spark](https://spark.apache.org/docs/latest/tuning.html)
   * [Speculative execution spark](https://blog.knoldus.com/tuning-apache-spark-application-with-speculation/)
   * [Cost based optimizer](https://databricks.com/blog/2017/08/31/cost-based-optimizer-in-apache-spark-2-2.html)
+  * [DevOps with Apache Spark](https://www.youtube.com/watch?v=l4ZYUfZuRbU)
 * Books
   * [Functional Programming in Scala](https://www.amazon.com/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653/ref=pd_lpo_sbs_14_t_1?_encoding=UTF8&psc=1&refRID=C345JFSGJVB0RTQQW09H)
   * [Scala in Depth](https://www.amazon.com/Scala-Depth-Joshua-D-Suereth/dp/1935182706)
