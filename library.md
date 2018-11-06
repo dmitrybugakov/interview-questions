@@ -33,6 +33,7 @@
   * [Typeclasses in Scala with Dan Rosen](https://www.youtube.com/watch?v=sVMES4RZF-8)
   * [Spark Performance Tuning (Microsoft)](https://www.youtube.com/watch?v=LtcPhcHAvLw)
   * [Continuous Application with FAIR Scheduler](https://www.youtube.com/watch?time_continue=1&v=oXwOQKXo9VE)
+  * [Free monad or tagless final - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
 * Set Theory
   * [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/set-theory/)
   * [Set Theory and Foundations of Mathematics](http://www.settheory.net/)
