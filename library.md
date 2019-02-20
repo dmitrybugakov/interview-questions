@@ -15,6 +15,7 @@
   * [Core concepts](http://slick.lightbend.com/doc/3.2.0/concepts.html)
 * Apache Spark
   * [Apache Spark Join guidelines and Performance tuning](https://github.com/vaquarkhan/vk-wiki-notes/wiki/Apache-Spark-Join-guidelines-and-Performance-tuning)
+  * [Shuffle free joins](http://hydronitrogen.com/shuffle-free-joins-in-spark-sql.html)
   * [Apache spark best practice](https://umbertogriffo.gitbooks.io/apache-spark-best-practices-and-tuning/)
   * [Spark performance](https://michalsenkyr.github.io/2018/01/spark-performance)
   * [Tuning Spark](https://spark.apache.org/docs/latest/tuning.html)
