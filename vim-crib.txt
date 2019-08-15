@@ -188,3 +188,5 @@ q:                         История команд
 General settings
 https://justgetflux.com/
 Font - (monaco, size 11, line spacing 0.9), (fira, size 12, line spacing 1.0)
+https://habr.com/ru/post/64224/
+
