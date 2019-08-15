@@ -190,4 +190,5 @@ https://justgetflux.com/
 Font - (monaco, size 11, line spacing 0.9), (fira, size 12, line spacing 1.0)
 https://habr.com/ru/post/64224/
 :echo $MYVIMRC
+:help i_CTRL-N
 
