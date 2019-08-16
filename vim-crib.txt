@@ -193,4 +193,4 @@ https://habr.com/ru/post/64224/
 http://vimcasts.org/episodes/show-invisibles/
 :echo $MYVIMRC
 :help i_CTRL-N
-
+:!python %
