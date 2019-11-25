@@ -5,6 +5,7 @@
   * [Scala interview questions](https://pedrorijo.com/blog/scala-interview-questions/)
   * [Inference Driven Design (library design)](https://mpilquist.github.io/blog/2018/07/04/fs2/)
 * Jvm GC
+  * [Java Concurrency](http://tutorials.jenkov.com/java-concurrency/index.html)
   * [Virtual Machine Garbage Collection Tuning](http://www.oracle.com/technetwork/java/javase/gc-tuning-6-140523.html)
   * [Java HotSpot VM Options](https://www.oracle.com/technetwork/articles/java/vmoptions-jsp-140102.html)
   * [10 garbage collection interview question answer](https://javarevisited.blogspot.com/2012/10/10-garbage-collection-interview-question-answer.html)
